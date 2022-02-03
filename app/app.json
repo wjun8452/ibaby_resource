@@ -11,7 +11,6 @@
       "rounds": [
         {
           "name": "10以内加减法",
-          "round_pic_emoj": "🍌",
           "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/banana.svg",
           "display_type": "text_board",
           "game_type": "normal", 
@@ -21,7 +20,6 @@
         },
         {
           "name": "凑10找朋友",
-          "round_pic_emoj": "🍒",
           "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/cherry.svg",
           "display_type": "text_board",
           "game_type": "normal", 
@@ -31,7 +29,6 @@
         },
         {
           "name": "20以内加减法",
-          "round_pic_emoj": "🍎",
           "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/apple.svg",
           "display_type": "text_board",
           "game_type": "normal",
@@ -41,7 +38,6 @@
         },
         {
           "name": "100以内加减法",
-          "round_pic_emoj": "🍉",
           "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/waterm.svg",
           "display_type": "text_board",
           "game_type": "normal",
@@ -114,6 +110,15 @@
         {
           "name": "组词",
           "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/animals/fish.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "chinese"
+        },
+        {
+          "name": "读出汉字5",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/animals/deer.svg",
           "display_type": "text_board",
           "game_type": "normal", 
           "target_count": 10,
