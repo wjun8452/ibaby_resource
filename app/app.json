@@ -1,0 +1,150 @@
+{
+  "name": "ibaby",
+  "version": "1.0",
+  "update": "2022-01-31",
+  "series":
+  [
+  	{
+      "name": "数学思维",
+      "series_pic_emoj": "",
+      "series_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/fruits.svg",
+      "rounds": [
+        {
+          "name": "10以内加减法",
+          "round_pic_emoj": "🍌",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/banana.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 5,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "凑10找朋友",
+          "round_pic_emoj": "🍒",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/cherry.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 9,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "20以内加减法",
+          "round_pic_emoj": "🍎",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/apple.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "100以内加减法",
+          "round_pic_emoj": "🍉",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/waterm.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 7,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+          
+        },
+        {
+          "name": "100以内加减巧算",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/durian.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 6,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "20以内等量代换",
+          "round_pic_emoj": "",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/fruits/blueberry.svg",
+          "display_type": "text_board_small_font",
+          "game_type": "normal",
+          "target_count": 6,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        }
+      ]
+    },
+    {
+      "name": "语文表达",
+      "series_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/animals/cock.svg",
+      "rounds": [
+      	{
+          "name": "读出汉字",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/animals/cow.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "chinese"
+        },
+        {
+          "name": "读出汉字2",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/animals/bird.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "chinese"
+        },
+        {
+          "name": "读出汉字3",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/animals/butterfly.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "chinese"
+        },
+        {
+          "name": "读出汉字4",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/animals/crab.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "chinese"
+        },
+        {
+          "name": "组词",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/animals/fish.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "chinese"
+        }
+      ]
+    },
+    {
+      "name": "趣味英语",
+      "series_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/toys/car.svg",
+      "rounds": [
+      	{
+          "name": "认识字母",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/toys/pinwheel.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 5,
+          "question_source": "from_database_by_category",
+          "question_series": "english"
+        },
+        {
+          "name": "小小翻译官",
+          "round_pic_id": "cloud://cloud1-8g13piij1a7c00df.636c-cloud1-8g13piij1a7c00df-1309465151/images/toys/mofang.svg",
+          "display_type": "text_board",
+          "game_type": "normal", 
+          "target_count": 5,
+          "question_source": "from_database_by_category",
+          "question_series": "english"
+        }
+      ]
+    }
+  ]
+}
