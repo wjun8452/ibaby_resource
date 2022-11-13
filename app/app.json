@@ -1,7 +1,7 @@
 {
   "name": "ibaby",
   "version": "1.0",
-  "update": "2022-01-31",
+  "update": "2022-11-13",
   "series":
   [
   	{
@@ -11,7 +11,7 @@
       "rounds": [
         {
           "name": "10以内加减法",
-          "round_pic_id": "../../images/fruits/banana.svg",
+          "round_pic_id": "../../images/fruits/1_banana.svg",
           "display_type": "text_board",
           "game_type": "normal", 
           "target_count": 5,
@@ -20,7 +20,7 @@
         },
         {
           "name": "凑10找朋友",
-          "round_pic_id": "../../images/fruits/cherry.svg",
+          "round_pic_id": "../../images/fruits/2_cherry.svg",
           "display_type": "text_board",
           "game_type": "normal", 
           "target_count": 9,
@@ -29,7 +29,7 @@
         },
         {
           "name": "20以内加减法",
-          "round_pic_id": "../../images/fruits/apple.svg",
+          "round_pic_id": "../../images/fruits/3_apple.svg",
           "display_type": "text_board",
           "game_type": "normal",
           "target_count": 10,
@@ -38,7 +38,7 @@
         },
         {
           "name": "100以内加减法",
-          "round_pic_id": "../../images/fruits/waterm.svg",
+          "round_pic_id": "../../images/fruits/4_waterm.svg",
           "display_type": "text_board",
           "game_type": "normal",
           "target_count": 7,
@@ -48,7 +48,7 @@
         },
         {
           "name": "100以内加减巧算",
-          "round_pic_id": "../../images/fruits/durian.svg",
+          "round_pic_id": "../../images/fruits/5_durian.svg",
           "display_type": "text_board",
           "game_type": "normal",
           "target_count": 6,
@@ -58,10 +58,70 @@
         {
           "name": "20以内等量代换",
           "round_pic_emoj": "",
-          "round_pic_id": "../../images/fruits/blueberry.svg",
+          "round_pic_id": "../../images/fruits/6_blueberry.svg",
           "display_type": "text_board_small_font",
           "game_type": "normal",
           "target_count": 6,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "40以内乘法",
+          "round_pic_emoj": "",
+          "round_pic_id": "../../images/fruits/7_pitaya.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "100以内乘法",
+          "round_pic_emoj": "",
+          "round_pic_id": "../../images/fruits/8_persimmon.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "?x?0",
+          "round_pic_emoj": "",
+          "round_pic_id": "../../images/fruits/9_kiwi.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+	{
+          "name": "?x??",
+          "round_pic_emoj": "",
+          "round_pic_id": "../../images/fruits/10_strawberry.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 9,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+	{
+          "name": "100以内除法",
+          "round_pic_emoj": "",
+          "round_pic_id": "../../images/fruits/11_pear.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 11,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "有余数的除法",
+          "round_pic_emoj": "",
+          "round_pic_id": "../../images/fruits/12_peach.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 10,
           "question_source": "from_database_by_category",
           "question_series": "math"
         }
