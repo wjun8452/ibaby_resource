@@ -124,6 +124,16 @@
           "target_count": 10,
           "question_source": "from_database_by_category",
           "question_series": "math"
+        },
+        {
+          "name": "认识小数",
+          "round_pic_emoj": "",
+          "round_pic_id": "../../images/fruits/13_葡萄.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
         }
       ]
     },

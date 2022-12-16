@@ -228,3 +228,13 @@
 {"_id":"979c24c46370e37800130f455bf90a5e","series":"math","name":"有余数的除法","body":"60÷8=?","answer":"7......4","level":6,"answer_voice":""}
 {"_id":"979c24c46370e37800130f4605b490f1","series":"math","name":"有余数的除法","body":"75÷9=?","answer":"8......3","level":6,"answer_voice":""}
 {"_id":"979c24c46370e37800130f474d469971","series":"math","name":"有余数的除法","body":"80÷9=?","answer":"8......8","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f6338679639a5c","series":"math","name":"认识小数","body":"0.3和0.30哪个大？","answer":"一样大","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f633872c7841bb","series":"math","name":"认识小数","body":"0.89和0.9哪个大？","answer":"0.9大","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f633881e86451e","series":"math","name":"认识小数","body":"0.4和4.0哪个大？","answer":"4.0大","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f633891b9c0830","series":"math","name":"认识小数","body":"0.5+0.8=？","answer":"1.3","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f6338a036b0414","series":"math","name":"认识小数","body":"2.87+3.66=？","answer":"6.53","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f6338b6d17a82b","series":"math","name":"认识小数","body":"7.2-3.8=？","answer":"3.4","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f6338c6616c91d","series":"math","name":"认识小数","body":"9.123-4.567=？","answer":"4.556","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f6338d5ecea057","series":"math","name":"认识小数","body":"5.36+11.495+2.64=？","answer":"19.567","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f6338e3198543b","series":"math","name":"认识小数","body":"6.888+2.2-1.888+7.8=？","answer":"10.5","level":6,"answer_voice":""}
+{"_id":"e83be1a8639c734a01f6338f4d0383cf","series":"math","name":"认识小数","body":"一个小数各个数位上的数字都不相同，整数部分是9，小数部分各个数位上的数字的和是15，这个小数最大是几？最小是几？","answer":"9.87， 9.012345","level":6,"answer_voice":""}
