@@ -238,5 +238,13 @@
 {"_id":"e83be1a8639c734a01f6338d5ecea057","series":"math","name":"认识小数","body":"5.36+11.495+2.64=？","answer":"19.495","level":6,"answer_voice":""}
 {"_id":"e83be1a8639c734a01f6338e3198543b","series":"math","name":"认识小数","body":"6.888+2.2-1.888+7.8=？","answer":"15","level":6,"answer_voice":""}
 {"_id":"e83be1a8639c734a01f6338f4d0383cf","series":"math","name":"认识小数","body":"一个小数各个数位上的数字都不相同，整数部分是9，小数部分各个数位上的数字的和是15，这个小数最大是几？最小是几？","answer":"9.87， 9.012345","level":6,"answer_voice":""}
-{"_id":"e83be1a863ae779502412083353e41c4","series":"math","name":"奥赛题1","body":"cloud://ilovevolleyball-d1813b.696c-ilovevolleyball-d1813b-1253572757/ibaby/questions/奥赛题1-竖式计算1.jpg","answer":"cloud://ilovevolleyball-d1813b.696c-ilovevolleyball-d1813b-1253572757/ibaby/questions/奥赛题1-竖式计算1-答案.jpeg","level":7,"answer_voice":""}
-{"_id":"e83be1a863ae7795024120846cca8dc0","series":"math","name":"奥赛题1","body":"鸡和兔共20只，共有48只脚，请问鸡有多少只？兔有多少只？","answer":"鸡16只，兔4只","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a5e386cd457","series":"math","name":"奥赛题1","body":"冬冬有5支铅笔，南南有19支铅笔，南南送给冬冬几支铅笔后两人一样多？","answer":"7支","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a5f2a2b22c0","series":"math","name":"奥赛题1","body":"小明家距离学校2公里，一次他上学走了1公里，想起忘记带文具盒，又回家去取。这次他到学校一共走了几公里？","answer":"4公里","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a6021b5eafd","series":"math","name":"奥赛题1","body":"小明有12元钱，正好买一个冰淇淋和两个糖果，如果只买冰淇淋，还剩4元钱，请问一个糖果多少钱？","answer":"2元","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a6163e0e8e9","series":"math","name":"奥赛题1","body":"小明今年6岁，小强今年4岁，2年后，小明比小强大几岁？","answer":"大2岁","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a6221e76c0d","series":"math","name":"奥赛题1","body":"同学们排队做操，从前面数，小明排第4，从后面数，小明排第5，这一队一共有多少人？","answer":"一共8个人","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a632c26a4aa","series":"math","name":"奥赛题1","body":"小明今年6岁，爸爸对小明说：你长到12岁的时候我45岁，请问爸爸今年几岁？","answer":"39岁","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a640bc9589a","series":"math","name":"奥赛题1","body":"小动物排队做早操，第一排有1个小动物，然后每排每次增加2个小动物，一共排了8排，请问一共有几个小动物？","answer":"64个","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a65788cb2f3","series":"math","name":"奥赛题1","body":"有一个4位数，各位数字之和等于34，符合条件的4位数有哪些？","answer":"一共有十个数，8899，8989，8998，9889，9898，9988，7999，9799，9979，9997","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a662de4e162","series":"math","name":"奥赛题1","body":"cloud://ilovevolleyball-d1813b.696c-ilovevolleyball-d1813b-1253572757/ibaby/questions/奥赛题1-竖式计算1.jpg","answer":"cloud://ilovevolleyball-d1813b.696c-ilovevolleyball-d1813b-1253572757/ibaby/questions/奥赛题1-竖式计算1-答案.jpeg","level":7,"answer_voice":""}
+{"_id":"f0eb33ac63aed38e01c17a6703ab0dad","series":"math","name":"奥赛题1","body":"鸡和兔共20只，共有48只脚，请问鸡有多少只？兔有多少只？","answer":"鸡16只，兔4只","level":7,"answer_voice":""}
