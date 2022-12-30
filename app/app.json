@@ -1,7 +1,7 @@
 {
   "name": "ibaby",
   "version": "1.0",
-  "update": "2022-11-13",
+  "update": "2022-12-30",
   "series":
   [
   	{
@@ -132,6 +132,16 @@
           "display_type": "text_board",
           "game_type": "normal",
           "target_count": 10,
+          "question_source": "from_database_by_category",
+          "question_series": "math"
+        },
+        {
+          "name": "奥赛题1",
+          "round_pic_emoj": "",
+          "round_pic_id": "cloud://ilovevolleyball-d1813b.696c-ilovevolleyball-d1813b-1253572757/ibaby/images/14_枇杷.svg",
+          "display_type": "text_board",
+          "game_type": "normal",
+          "target_count": 2,
           "question_source": "from_database_by_category",
           "question_series": "math"
         }
